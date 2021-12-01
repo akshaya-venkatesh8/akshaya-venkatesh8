@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am also a part time doodle artist - [Doodle Yoga](https://www.instagram.com/doodleyoga.letters/)
 - 👋 You can reach me on [LinkedIn](https://www.linkedin.com/in/akshaya-venkatesh8/) or [Twitter](https://twitter.com/venkyakshaya).
 - 😎 Check out some of my works: 
-[CodePen](https://codepen.io/akshaya-venkatesh8)
+[CodePen](https://codepen.io/akshaya-venkatesh8) | 
 [Dev Blog](https://dev.to/venkyakshaya/)
