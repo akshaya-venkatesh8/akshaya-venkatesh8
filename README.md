@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 [CodePen](https://codepen.io/akshaya-venkatesh8) | 
 [Dev Blog](https://dev.to/venkyakshaya/)
 
-- <img src="https://user-images.githubusercontent.com/15035333/198851637-ecca056b-49b3-47f1-ac1e-50d84439fee8.png" alt="drawing" width="20"/> I will be an SDE 2 at Adobe, Inc starting January, 2023
+- <img src="https://user-images.githubusercontent.com/15035333/198851637-ecca056b-49b3-47f1-ac1e-50d84439fee8.png" alt="Adobe Logo" width="20" height="20"/> I will be an SDE 2 at Adobe, Inc starting January, 2023
