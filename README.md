@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍💻 I am an aspiring Fullstack Developer and Front-end Engineer.
+- 👩‍💻 I am a Fullstack Developer and Front-end Engineer.
 - 🔭 I am currently pursuing a Master's degree in Computer Science at Washington State University
 - 💬 Would love to discuss anything UI - CSS, Animation, UX Design.
 - 🐍 Currently learning Python and practising DSA.
