@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍💻 I am a Fullstack Developer and Front-end Engineer.
-- 🔭 I am currently pursuing a Master's degree in Computer Science at Washington State University
+- <img src="https://user-images.githubusercontent.com/15035333/198851637-ecca056b-49b3-47f1-ac1e-50d84439fee8.png" alt="Adobe Logo" width="20" height="20"/> I am an SDE 2 at Adobe, Inc 
+- 🔭 I am finished my Master's degree in Computer Science at Washington State University
 - 💬 Would love to discuss anything UI - React JS, CSS, Animation, UX Design.
 - 🐍 Currently learning UX design.
 
@@ -27,4 +28,4 @@ Here are some ideas to get you started:
 [CodePen](https://codepen.io/akshaya-venkatesh8) | 
 [Dev Blog](https://dev.to/venkyakshaya/)
 
-- <img src="https://user-images.githubusercontent.com/15035333/198851637-ecca056b-49b3-47f1-ac1e-50d84439fee8.png" alt="Adobe Logo" width="20" height="20"/> I am an SDE 2 at Adobe, Inc 
+
